@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://telegra.ph/file/06129d917642f323f77a3.jpg">
+  <img src="https://telegra.ph/file/6baece75d8320e78893e3.jpg">
 </p>
 
-# PglRobot 
+# Kuroni Robot
 
 <p align="center">
 - x -|│  “	Just some code who is a bot for fun. ”  │| - x -
@@ -42,7 +42,7 @@
 
 PglRobot is a simple one-punch solution to your group management needs and has become one of the most prominently kanged bots around telegram, purely weeab themed.
 
-* Bot Link:  <a href="https://t.me/PglRobot" alt="PglRobot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-PglRobot-blue" /> </a>
+* Bot Link:  <a href="https://t.me/kuroniibot" alt="PglRobot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-PglRobot-blue" /> </a>
 * News channel: <a  href="https://t.me/PglRobotUpdates" alt="PglRobot Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-PglRobot%20Updates-9cf" /> </a>
 
 Should you be forking this repo then do not forget to star it - <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AuraXNetwork/PglRobot?color=white&label=%F0%9F%8C%9F%20star">
