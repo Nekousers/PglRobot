@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/6baece75d8320e78893e3.jpg">
 </p>
 
-# Kuroni Robot
+# Kuronii Robot
 
 <p align="center">
 - x -|│  “	Just some code who is a bot for fun. ”  │| - x -
