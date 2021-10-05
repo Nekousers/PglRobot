@@ -241,7 +241,7 @@ def start(update: Update, context: CallbackContext):
                              ),
                             InlineKeyboardButton(
                                 text="Creater",
-                                url="https://t.me/AuraX_Owner",
+                                url="https://t.me/nekousers",
                             ),
                         ],
                         [
