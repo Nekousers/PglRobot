@@ -224,34 +224,34 @@ def start(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                text="𝗔𝗗𝗗 𝗠𝗘⚡️",
+                                text="Add Me",
                                 url="t.me/{}?startgroup=true".format(
                                     context.bot.username
                                 ),
                             ),
                             InlineKeyboardButton(
-                                text="𝗣𝗴𝗹𝗭𝗼𝗻𝗲⚡️",
-                                url="https://t.me/PglZone",
+                                text="Channel Info",
+                                url="https://t.me/info_anime_indonesia_channel",
                             ),    
                         ],
                         [
                             InlineKeyboardButton(
-                                text="𝗦𝘂𝗽𝗽𝗼𝗿𝘁⚡️",
+                                text="Support",
                                 url=f"https://t.me/{SUPPORT_CHAT}",
                              ),
                             InlineKeyboardButton(
-                                text="𝗖𝗥𝗘𝗔𝗧𝗘𝗥⚡️",
+                                text="Creater",
                                 url="https://t.me/AuraX_Owner",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
-                                text="𝗨𝗽𝗱𝗮𝘁𝗲𝘀⚡️",
-                                url="https://t.me/PglRobotUpdates",
+                                text="Rekomendasi Anime",
+                                url="https://t.me/Rekomendasi_anime",
                             ),
                             InlineKeyboardButton(
-                                text="𝗥𝗘𝗣𝗢⚡️",
-                                url="https://github.com/AuraXNetwork/PglRobot",
+                                text="Komi-san sub Indo",
+                                url="https://t.me/komi_san_sub_indo",
                             ),
                         ],
                     ]
